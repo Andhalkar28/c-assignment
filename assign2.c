@@ -1,4 +1,4 @@
-// 2. Accept dimensions of a cylinder and print the surface area and volume. (Hint:surface area = 2 πr2 2πr, volume = πr2h)
+//2. Accept dimensions of a cylinder and print the surface area and volume. (Hint:surface area = 2 πr2 2πr, volume = πr2h)
 #include <stdio.h>
 int main()
 {
