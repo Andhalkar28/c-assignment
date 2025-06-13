@@ -1,4 +1,4 @@
-// 1. Accept radius of a circle and print the area and circumference of circle. (Hint: area = πr2, circumference = 2πr)
+//1.Accept radius of a circle and print the area and circumference of circle. (Hint: area = πr2, circumference = 2πr)
 #include <stdio.h>
 int main()
 {
